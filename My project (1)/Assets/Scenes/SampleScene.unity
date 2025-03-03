@@ -459,6 +459,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6da47991fac2a2c478d46e3b2499c89b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  coockies: 0
+  babushka: 1
+  bakery: 0
+  customer: 0
+  shop: 0
+  babushkaPrice: 100
+  bakeryPrice: 1500
+  customerPrice: 3000
+  shopPrice: 5000
+  chocolate: 0
+  nuts: 0
+  chocolatePrice: 2000
+  nutsPrise: 50000
 --- !u!54 &1205159767
 Rigidbody:
   m_ObjectHideFlags: 0
